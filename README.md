@@ -1,4 +1,4 @@
-# CoffeeRoasteryDash
+## Coffee Roastery Dash
 
 [View Dashboard here.](https://roastery-dash.onrender.com/)
 
